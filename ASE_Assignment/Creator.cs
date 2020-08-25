@@ -12,6 +12,7 @@ namespace ASE_Assignment
     abstract class Creator
     {
         /// <summary>
+        /// 
         /// This method is used for shaping an objects
         /// </summary>
         /// <param name="ShapeType"></param>

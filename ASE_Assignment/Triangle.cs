@@ -44,8 +44,7 @@ namespace ASE_Assignment
                 p[0].X = x;
                 p[0].Y = y - (height / 2);
 
-                p[1].X = x - (width / 2);
-                p[1].Y = y + (height / 2);
+                //
 
                 p[2].X = x + (width / 2);
                 p[2].Y = y + (height / 2);
